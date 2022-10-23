@@ -3,6 +3,12 @@
     <channel>
         <title>Gita App - Appcast</title>
         <item>
+            <title>Version 18 (1.3.0) donations - card</title>
+            <description>On the auspicious day of Deepavali, we bring you an opportunity to Shine your Light and Drive away Darkness, by funding our mission. 🙏</description>
+            <pubDate>Mon, 23 Oct 2022 23:29:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.valuebuds.gita" sparkle:version="1.3.0" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 13 (1.2.0) notifications</title>
             <description>Thank you for using Gita! This release helps you read a verse every day. It notifies you of the verse of the day.</description>
             <pubDate>Mon, 3 Oct 2022 15:27:00 +0000</pubDate>
