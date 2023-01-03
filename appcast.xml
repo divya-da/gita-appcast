@@ -3,6 +3,12 @@
     <channel>
         <title>Gita App - Appcast</title>
         <item>
+            <title>Version 38 (1.5.4) crash fix</title>
+            <description>Please upgrade for uninterrupted reading and "Verse of the day" notifications. Namaste and Thank you. 🙏</description>
+            <pubDate>Sat, 31 Dec 2022 18:15:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.valuebuds.gita" sparkle:version="1.5.4" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 35 (1.5.2) subscribe to verse-of-the-day</title>
             <description>Please upgrade to the latest version of Gita to continue receiving "Verse of the day" notifications. Namaste and Thank you. 🙏</description>
             <pubDate>Fri, 27 Dec 2022 09:37:00 +0000</pubDate>
